@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="1.15" name="Vadorax Narrative Campaign" indexUrl="https://github.com/martijndoornik/Vadorax-NC.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="1.15" dataRevision="45"/>
+    <dataIndexEntry filePath="Eldar_Corsairs_(GWG_Narritive).catz" dataType="catalogue" dataId="6ef2-e55c-4af1-a640" dataName="Eldar Corsairs (GWG Narritive)" dataBattleScribeVersion="1.15" dataRevision="4"/>
+  </dataIndexEntries>
+</dataIndex>
